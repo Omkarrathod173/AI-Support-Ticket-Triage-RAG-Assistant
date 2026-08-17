@@ -1,0 +1,26 @@
+kb_id,category,issue_text,resolution_text
+KB0000,Billing,I was charged twice for my February subscription,Refunded the duplicate charge and confirmed single billing going forward.
+KB0001,Billing,My invoice shows an amount I don't recognize,Reviewed the invoice line items and issued a credit for the discrepancy.
+KB0002,Billing,The discount code I used wasn't applied at checkout,Manually applied the discount code and adjusted the charge.
+KB0003,Billing,I'm being billed after I cancelled my plan,Confirmed cancellation date and refunded the post-cancellation charge.
+KB0004,Billing,My payment method was charged in the wrong currency,Corrected the currency setting on the account and refunded the difference.
+KB0005,Technical Issue,The app crashes every time I open the settings screen,Identified a bug in the profile screen and shipped a patch in the next release.
+KB0006,Technical Issue,I can't upload files larger than a few MB,Increased the upload size limit and confirmed the fix on the user's account.
+KB0007,Technical Issue,The dashboard is stuck loading and never finishes,Cleared a stuck background job that was blocking the dashboard from loading.
+KB0008,Technical Issue,Push notifications stopped working after the last update,Reset notification permissions and reinstalled the push service on the user's device.
+KB0009,Technical Issue,The search feature returns no results for anything I type,"Rebuilt the search index, which had become corrupted after a migration."
+KB0010,Account Access,I'm locked out of my account after too many login attempts,Manually unlocked the account after verifying identity.
+KB0011,Account Access,The password reset email never arrives,Resent the reset email after confirming the address on file was correct.
+KB0012,Account Access,Two-factor authentication codes aren't being accepted,Resynced the two-factor authenticator and issued new backup codes.
+KB0013,Account Access,My account shows someone else's information,Identified an account merge error and restored the correct profile data.
+KB0014,Account Access,I can't log in even with the correct password,Reset the password directly after verifying identity through support.
+KB0015,Shipping/Delivery,My order hasn't arrived and tracking hasn't updated in 4 days,"Contacted the carrier, confirmed the delay, and issued a partial credit."
+KB0016,Shipping/Delivery,I received the wrong item in my order,Shipped the correct item at no extra cost and arranged return of the wrong one.
+KB0017,Shipping/Delivery,The package arrived damaged,Processed a replacement and filed a damage claim with the carrier.
+KB0018,Shipping/Delivery,My order shows delivered but I never received it,Filed a lost-package investigation with the carrier and reshipped the order.
+KB0019,Shipping/Delivery,I need to change my shipping address after placing the order,Updated the shipping address before the fulfillment cutoff.
+KB0020,Cancellation/Refund,I want to cancel my subscription but can't find the option,Walked the user through the cancellation flow and confirmed it was completed.
+KB0021,Cancellation/Refund,I requested a refund 11 days ago and haven't heard back,Located the pending refund request and processed it same-day.
+KB0022,Cancellation/Refund,I was charged after I thought I cancelled,Investigated the cancellation timestamp and refunded the erroneous charge.
+KB0023,Cancellation/Refund,The refund I received was less than what I paid,Corrected the refund amount to match the original charge.
+KB0024,Cancellation/Refund,I want to cancel and get a refund for this month,Processed the cancellation and a pro-rated refund for the current month.

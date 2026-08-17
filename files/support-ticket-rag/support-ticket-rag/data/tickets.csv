@@ -1,0 +1,151 @@
+ticket_id,text,true_category,true_best_kb_match,true_sentiment,true_urgency
+T00092,"Hello, the package arrived damaged Wanted to flag this issue. This is urgent, please help ASAP.",Shipping/Delivery,KB0015,Neutral,High
+T00044,"Hi team, the search feature returns no results for anything I type I'm quite upset about this.",Technical Issue,KB0007,Negative,Low
+T00007,"So, my invoice shows an amount I don't recognize I appreciate you looking into this. This is urgent, please help ASAP.",Billing,KB0001,Positive,High
+T00021,"So, my invoice shows an amount I don't recognize This is unacceptable. I need this resolved immediately.",Billing,KB0003,Negative,High
+T00095,i need to change my shipping address after placing the order Could someone look into this?,Shipping/Delivery,KB0015,Neutral,Medium
+T00075,"Hello, two-factor authentication codes aren't being accepted I've been dealing with this for days. I need this resolved immediately.",Account Access,KB0012,Negative,High
+T00020,"Hi team, i'm being billed after I cancelled my plan I'm very disappointed. This is urgent, please help ASAP.",Billing,KB0003,Negative,High
+T00121,"Hi team, the refund I received was less than what I paid This is really frustrating.",Cancellation/Refund,KB0020,Negative,Low
+T00026,i was charged twice for my February subscription This is really frustrating. I need this resolved immediately.,Billing,KB0004,Negative,High
+T00019,"So, my invoice shows an amount I don't recognize Could someone look into this?",Billing,KB0003,Neutral,Medium
+T00081,"Hi team, my account shows someone else's information Could someone look into this?",Account Access,KB0013,Neutral,Medium
+T00088,"Hi, two-factor authentication codes aren't being accepted I'm quite upset about this.",Account Access,KB0014,Negative,Medium
+T00143,i want to cancel and get a refund for this month Let me know what you need from me.,Cancellation/Refund,KB0023,Neutral,Low
+T00117,"Hello, my order hasn't arrived and tracking hasn't updated in 7 days Could someone look into this? I need this resolved immediately.",Shipping/Delivery,KB0019,Neutral,High
+T00023,"So, my invoice shows an amount I don't recognize Wanted to flag this issue.",Billing,KB0003,Neutral,Medium
+T00077,"Hi, i can't log in even with the correct password This is really frustrating.",Account Access,KB0012,Negative,Medium
+T00138,"So, the refund I received was less than what I paid Let me know what you need from me.",Cancellation/Refund,KB0023,Neutral,Low
+T00073,"Hi, i'm locked out of my account after too many login attempts I appreciate you looking into this.",Account Access,KB0012,Positive,Medium
+T00014,"Hi, i was charged twice for my May subscription I'm quite upset about this. I need an answer today.",Billing,KB0002,Negative,High
+T00142,"Hi team, the refund I received was less than what I paid This is unacceptable. This is urgent, please help ASAP.",Cancellation/Refund,KB0023,Negative,High
+T00123,"Hi team, i want to cancel and get a refund for this month Let me know what you need from me.",Cancellation/Refund,KB0020,Neutral,Low
+T00062,"So, i can't log in even with the correct password I'm quite upset about this. I need an answer today.",Account Access,KB0010,Negative,High
+T00083,"Hi, i'm locked out of my account after too many login attempts This is really frustrating.",Account Access,KB0013,Negative,Medium
+T00074,"Hi, two-factor authentication codes aren't being accepted I'm quite upset about this.",Account Access,KB0012,Negative,Low
+T00042,"So, push notifications stopped working after the last update I've been dealing with this for days. This is urgent, please help ASAP.",Technical Issue,KB0007,Negative,High
+T00060,i'm locked out of my account after too many login attempts I'm quite upset about this.,Account Access,KB0010,Negative,Medium
+T00040,the app crashes every time I open the billing screen Wanted to flag this issue. I need an answer today.,Technical Issue,KB0006,Neutral,High
+T00045,"Hi team, the app crashes every time I open the settings screen This is unacceptable.",Technical Issue,KB0007,Negative,Medium
+T00087,"Hi team, i can't log in even with the correct password I appreciate you looking into this.",Account Access,KB0014,Positive,Low
+T00124,"Hi, i requested a refund 13 days ago and haven't heard back Wanted to flag this issue.",Cancellation/Refund,KB0020,Neutral,Medium
+T00041,"Hi team, i can't upload files larger than a few MB I'm quite upset about this.",Technical Issue,KB0006,Negative,Medium
+T00131,"i was charged after I thought I cancelled No rush, just wanted to report it.",Cancellation/Refund,KB0021,Positive,Medium
+T00070,"Hi, the password reset email never arrives Could someone look into this? I need this resolved immediately.",Account Access,KB0011,Neutral,High
+T00046,the search feature returns no results for anything I type This is unacceptable. I need an answer today.,Technical Issue,KB0007,Negative,High
+T00126,"Hello, the refund I received was less than what I paid Could someone look into this? I need an answer today.",Cancellation/Refund,KB0021,Neutral,High
+T00054,"Hi team, the dashboard is stuck loading and never finishes I'm very disappointed.",Technical Issue,KB0009,Negative,Low
+T00085,"So, my account shows someone else's information No rush, just wanted to report it.",Account Access,KB0014,Positive,Medium
+T00114,i need to change my shipping address after placing the order Thanks in advance for your help! I need this resolved immediately.,Shipping/Delivery,KB0019,Positive,High
+T00038,"Hi, the app crashes every time I open the settings screen No rush, just wanted to report it.",Technical Issue,KB0006,Positive,Medium
+T00101,"Hello, i need to change my shipping address after placing the order This is really frustrating.",Shipping/Delivery,KB0016,Negative,Medium
+T00149,"So, i want to cancel and get a refund for this month Let me know what you need from me.",Cancellation/Refund,KB0024,Neutral,Medium
+T00136,"Hi, the refund I received was less than what I paid I'm very disappointed.",Cancellation/Refund,KB0022,Negative,Medium
+T00113,i need to change my shipping address after placing the order I appreciate you looking into this.,Shipping/Delivery,KB0018,Positive,Medium
+T00097,"Hi team, i received the wrong item in my order I'm very disappointed.",Shipping/Delivery,KB0016,Negative,Low
+T00141,"Hi, the refund I received was less than what I paid Could someone look into this? I need this resolved immediately.",Cancellation/Refund,KB0023,Neutral,High
+T00036,the search feature returns no results for anything I type Let me know what you need from me.,Technical Issue,KB0006,Neutral,Low
+T00037,"So, i can't upload files larger than a few MB Let me know what you need from me. I need an answer today.",Technical Issue,KB0006,Neutral,High
+T00013,"So, i'm being billed after I cancelled my plan Thanks in advance for your help! I need this resolved immediately.",Billing,KB0002,Positive,High
+T00068,"Hi, i'm locked out of my account after too many login attempts Could someone look into this? I need an answer today.",Account Access,KB0011,Neutral,High
+T00011,"Hi, i'm being billed after I cancelled my plan This is really frustrating.",Billing,KB0001,Negative,Medium
+T00052,"Hi, i can't upload files larger than a few MB I'm quite upset about this.",Technical Issue,KB0008,Negative,Medium
+T00049,"So, i can't upload files larger than a few MB Could someone look into this? This is urgent, please help ASAP.",Technical Issue,KB0008,Neutral,High
+T00065,my account shows someone else's information Wanted to flag this issue. I need this resolved immediately.,Account Access,KB0010,Neutral,High
+T00118,"the package arrived damaged No rush, just wanted to report it. I need an answer today.",Shipping/Delivery,KB0019,Positive,High
+T00055,"Hi, i can't upload files larger than a few MB This is unacceptable. I need an answer today.",Technical Issue,KB0009,Negative,High
+T00067,i can't log in even with the correct password I'm very disappointed.,Account Access,KB0011,Negative,Low
+T00003,"Hi team, my payment method was charged in the wrong currency Could someone look into this? I need an answer today.",Billing,KB0000,Neutral,High
+T00017,my invoice shows an amount I don't recognize I'm quite upset about this.,Billing,KB0002,Negative,Medium
+T00135,"Hello, i want to cancel my subscription but can't find the option This is unacceptable.",Cancellation/Refund,KB0022,Negative,Low
+T00029,the discount code I used wasn't applied at checkout I'm quite upset about this.,Billing,KB0004,Negative,Low
+T00010,my invoice shows an amount I don't recognize This is unacceptable.,Billing,KB0001,Negative,Low
+T00022,"Hello, the discount code I used wasn't applied at checkout Wanted to flag this issue.",Billing,KB0003,Neutral,Low
+T00002,"Hi, my payment method was charged in the wrong currency Thanks in advance for your help!",Billing,KB0000,Positive,Medium
+T00031,"Hello, the search feature returns no results for anything I type Could someone look into this? I need an answer today.",Technical Issue,KB0005,Neutral,High
+T00096,i need to change my shipping address after placing the order Could someone look into this?,Shipping/Delivery,KB0016,Neutral,Medium
+T00089,"Hi, my account shows someone else's information Wanted to flag this issue.",Account Access,KB0014,Neutral,Medium
+T00027,"Hello, my invoice shows an amount I don't recognize Wanted to flag this issue.",Billing,KB0004,Neutral,Medium
+T00108,"So, my order shows delivered but I never received it Could someone look into this?",Shipping/Delivery,KB0018,Neutral,Medium
+T00051,"Hi team, the dashboard is stuck loading and never finishes Wanted to flag this issue.",Technical Issue,KB0008,Neutral,Low
+T00001,"So, i'm being billed after I cancelled my plan Wanted to flag this issue.",Billing,KB0000,Neutral,Medium
+T00016,"Hello, the discount code I used wasn't applied at checkout Let me know what you need from me.",Billing,KB0002,Neutral,Medium
+T00106,"Hello, i received the wrong item in my order I've been dealing with this for days.",Shipping/Delivery,KB0017,Negative,Medium
+T00086,"Hi, i'm locked out of my account after too many login attempts This is really frustrating. I need this resolved immediately.",Account Access,KB0014,Negative,High
+T00034,"Hello, the app crashes every time I open the reports screen Let me know what you need from me.",Technical Issue,KB0005,Neutral,Low
+T00104,"Hello, my order hasn't arrived and tracking hasn't updated in 6 days Let me know what you need from me.",Shipping/Delivery,KB0017,Neutral,Medium
+T00093,my order shows delivered but I never received it Could someone look into this? I need an answer today.,Shipping/Delivery,KB0015,Neutral,High
+T00134,"Hi, i want to cancel and get a refund for this month Let me know what you need from me.",Cancellation/Refund,KB0022,Neutral,Medium
+T00043,"So, the dashboard is stuck loading and never finishes I've been dealing with this for days.",Technical Issue,KB0007,Negative,Low
+T00111,"Hi team, i need to change my shipping address after placing the order This is really frustrating.",Shipping/Delivery,KB0018,Negative,Medium
+T00039,"So, i can't upload files larger than a few MB Wanted to flag this issue. This is urgent, please help ASAP.",Technical Issue,KB0006,Neutral,High
+T00047,"Hello, the app crashes every time I open the settings screen Thanks in advance for your help!",Technical Issue,KB0007,Positive,Medium
+T00078,"Hello, the password reset email never arrives Could someone look into this?",Account Access,KB0013,Neutral,Low
+T00116,"Hi, my order shows delivered but I never received it Could someone look into this?",Shipping/Delivery,KB0019,Neutral,Medium
+T00064,"Hi team, i can't log in even with the correct password Let me know what you need from me.",Account Access,KB0010,Neutral,Medium
+T00094,i need to change my shipping address after placing the order Wanted to flag this issue.,Shipping/Delivery,KB0015,Neutral,Medium
+T00024,"Hi, my invoice shows an amount I don't recognize I appreciate you looking into this. I need an answer today.",Billing,KB0004,Positive,High
+T00132,"Hi team, i requested a refund 9 days ago and haven't heard back Let me know what you need from me.",Cancellation/Refund,KB0022,Neutral,Low
+T00058,"Hello, the dashboard is stuck loading and never finishes This is really frustrating.",Technical Issue,KB0009,Negative,Medium
+T00008,"Hi team, my payment method was charged in the wrong currency I've been dealing with this for days.",Billing,KB0001,Negative,Medium
+T00127,"Hi team, i want to cancel and get a refund for this month I'm very disappointed.",Cancellation/Refund,KB0021,Negative,Low
+T00071,"Hello, i'm locked out of my account after too many login attempts Could someone look into this?",Account Access,KB0011,Neutral,Medium
+T00066,"Hi team, i'm locked out of my account after too many login attempts Wanted to flag this issue.",Account Access,KB0011,Neutral,Low
+T00130,"Hello, i requested a refund 10 days ago and haven't heard back I'm very disappointed.",Cancellation/Refund,KB0021,Negative,Medium
+T00079,"Hello, my account shows someone else's information Wanted to flag this issue. I need an answer today.",Account Access,KB0013,Neutral,High
+T00105,"Hi team, i need to change my shipping address after placing the order Wanted to flag this issue. I need this resolved immediately.",Shipping/Delivery,KB0017,Neutral,High
+T00063,"Hello, my account shows someone else's information This is unacceptable.",Account Access,KB0010,Negative,Medium
+T00144,i want to cancel my subscription but can't find the option Could someone look into this?,Cancellation/Refund,KB0024,Neutral,Low
+T00115,"Hello, my order shows delivered but I never received it I'm very disappointed. I need an answer today.",Shipping/Delivery,KB0019,Negative,High
+T00032,"Hi team, the dashboard is stuck loading and never finishes This is unacceptable.",Technical Issue,KB0005,Negative,Low
+T00025,"Hi, the discount code I used wasn't applied at checkout I'm quite upset about this.",Billing,KB0004,Negative,Medium
+T00103,"Hello, i received the wrong item in my order Could someone look into this? I need an answer today.",Shipping/Delivery,KB0017,Neutral,High
+T00102,"Hi team, my order shows delivered but I never received it Wanted to flag this issue.",Shipping/Delivery,KB0017,Neutral,Low
+T00030,"So, the app crashes every time I open the reports screen Wanted to flag this issue. I need an answer today.",Technical Issue,KB0005,Neutral,High
+T00076,"Hello, two-factor authentication codes aren't being accepted Could someone look into this?",Account Access,KB0012,Neutral,Medium
+T00148,"Hello, the refund I received was less than what I paid Wanted to flag this issue.",Cancellation/Refund,KB0024,Neutral,Medium
+T00099,"So, i received the wrong item in my order This is really frustrating.",Shipping/Delivery,KB0016,Negative,Low
+T00057,the app crashes every time I open the checkout screen Let me know what you need from me.,Technical Issue,KB0009,Neutral,Medium
+T00107,"Hi team, the package arrived damaged This is really frustrating.",Shipping/Delivery,KB0017,Negative,Low
+T00069,"Hi, i'm locked out of my account after too many login attempts This is unacceptable. I need an answer today.",Account Access,KB0011,Negative,High
+T00129,i want to cancel and get a refund for this month This is unacceptable.,Cancellation/Refund,KB0021,Negative,Low
+T00000,"Hi team, the discount code I used wasn't applied at checkout Let me know what you need from me. I need an answer today.",Billing,KB0000,Neutral,High
+T00109,"Hi, the package arrived damaged Let me know what you need from me.",Shipping/Delivery,KB0018,Neutral,Medium
+T00128,"Hi team, i want to cancel and get a refund for this month This is unacceptable. This is urgent, please help ASAP.",Cancellation/Refund,KB0021,Negative,High
+T00009,"So, the discount code I used wasn't applied at checkout This is really frustrating.",Billing,KB0001,Negative,Medium
+T00028,"So, my invoice shows an amount I don't recognize Wanted to flag this issue.",Billing,KB0004,Neutral,Medium
+T00090,"Hi, my order shows delivered but I never received it Could someone look into this?",Shipping/Delivery,KB0015,Neutral,Medium
+T00137,"So, the refund I received was less than what I paid I appreciate you looking into this.",Cancellation/Refund,KB0022,Positive,Low
+T00006,"Hello, i'm being billed after I cancelled my plan This is unacceptable.",Billing,KB0001,Negative,Medium
+T00015,"Hi, i was charged twice for my February subscription No rush, just wanted to report it.",Billing,KB0002,Positive,Medium
+T00082,i'm locked out of my account after too many login attempts I'm very disappointed.,Account Access,KB0013,Negative,Low
+T00125,"Hi team, i want to cancel and get a refund for this month I've been dealing with this for days.",Cancellation/Refund,KB0020,Negative,Medium
+T00012,"Hi, my invoice shows an amount I don't recognize I'm quite upset about this.",Billing,KB0002,Negative,Low
+T00033,the search feature returns no results for anything I type This is unacceptable. I need this resolved immediately.,Technical Issue,KB0005,Negative,High
+T00091,"So, the package arrived damaged I'm very disappointed.",Shipping/Delivery,KB0015,Negative,Medium
+T00145,"Hi team, i want to cancel my subscription but can't find the option Could someone look into this?",Cancellation/Refund,KB0024,Neutral,Medium
+T00146,"Hi team, the refund I received was less than what I paid Wanted to flag this issue.",Cancellation/Refund,KB0024,Neutral,Medium
+T00035,"Hi team, the search feature returns no results for anything I type Let me know what you need from me.",Technical Issue,KB0005,Neutral,Medium
+T00140,"Hi, i was charged after I thought I cancelled I've been dealing with this for days.",Cancellation/Refund,KB0023,Negative,Medium
+T00080,"Hi, my account shows someone else's information This is unacceptable.",Account Access,KB0013,Negative,Medium
+T00005,"Hello, i was charged twice for my January subscription Could someone look into this?",Billing,KB0000,Neutral,Medium
+T00053,"So, the search feature returns no results for anything I type I've been dealing with this for days. This is urgent, please help ASAP.",Technical Issue,KB0008,Negative,High
+T00139,"Hi team, i want to cancel my subscription but can't find the option Thanks in advance for your help! This is urgent, please help ASAP.",Cancellation/Refund,KB0023,Positive,High
+T00050,the dashboard is stuck loading and never finishes This is really frustrating.,Technical Issue,KB0008,Negative,Low
+T00018,"Hi, i'm being billed after I cancelled my plan Let me know what you need from me.",Billing,KB0003,Neutral,Low
+T00133,"So, i want to cancel my subscription but can't find the option Let me know what you need from me.",Cancellation/Refund,KB0022,Neutral,Medium
+T00119,"Hello, my order shows delivered but I never received it I've been dealing with this for days.",Shipping/Delivery,KB0019,Negative,Medium
+T00059,"Hi, the app crashes every time I open the settings screen Let me know what you need from me.",Technical Issue,KB0009,Neutral,Low
+T00084,"Hello, my account shows someone else's information I'm quite upset about this.",Account Access,KB0014,Negative,Medium
+T00100,my order shows delivered but I never received it Could someone look into this?,Shipping/Delivery,KB0016,Neutral,Medium
+T00147,"Hi team, i want to cancel my subscription but can't find the option Thanks in advance for your help!",Cancellation/Refund,KB0024,Positive,Low
+T00122,"So, the refund I received was less than what I paid This is unacceptable.",Cancellation/Refund,KB0020,Negative,Medium
+T00061,"Hi team, i'm locked out of my account after too many login attempts I'm quite upset about this.",Account Access,KB0010,Negative,Medium
+T00110,"Hello, i need to change my shipping address after placing the order Let me know what you need from me.",Shipping/Delivery,KB0018,Neutral,Medium
+T00072,"Hello, two-factor authentication codes aren't being accepted Let me know what you need from me.",Account Access,KB0012,Neutral,Medium
+T00098,"Hello, i need to change my shipping address after placing the order Could someone look into this?",Shipping/Delivery,KB0016,Neutral,Medium
+T00120,"Hi team, i want to cancel and get a refund for this month No rush, just wanted to report it.",Cancellation/Refund,KB0020,Positive,Medium
+T00112,"Hello, my order shows delivered but I never received it This is really frustrating. I need this resolved immediately.",Shipping/Delivery,KB0018,Negative,High
+T00048,"Hello, the search feature returns no results for anything I type Thanks in advance for your help! I need an answer today.",Technical Issue,KB0008,Positive,High
+T00004,"Hi team, my invoice shows an amount I don't recognize This is unacceptable.",Billing,KB0000,Negative,Medium
+T00056,"Hi team, the search feature returns no results for anything I type I've been dealing with this for days.",Technical Issue,KB0009,Negative,Medium
