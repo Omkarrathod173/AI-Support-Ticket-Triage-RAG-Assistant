@@ -1,0 +1,151 @@
+ticket_id,true_category,pred_category,category_correct,true_sentiment,pred_sentiment,sentiment_correct,true_urgency,pred_urgency,urgency_correct,true_kb_match,retrieved_top1,retrieval_hit_at_1,retrieval_hit_at_k
+T00092,Shipping/Delivery,Billing,False,Neutral,Neutral,True,High,High,True,KB0015,KB0017,False,True
+T00044,Technical Issue,Technical Issue,True,Negative,Negative,True,Low,Medium,False,KB0007,KB0009,False,False
+T00007,Billing,Billing,True,Positive,Positive,True,High,High,True,KB0001,KB0001,True,True
+T00021,Billing,Billing,True,Negative,Negative,True,High,High,True,KB0003,KB0001,False,False
+T00095,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0015,KB0019,False,False
+T00075,Account Access,Billing,False,Negative,Neutral,False,High,High,True,KB0012,KB0012,True,True
+T00020,Billing,Billing,True,Negative,Negative,True,High,High,True,KB0003,KB0003,True,True
+T00121,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Low,Medium,False,KB0020,KB0023,False,False
+T00026,Billing,Cancellation/Refund,False,Negative,Negative,True,High,High,True,KB0004,KB0000,False,False
+T00019,Billing,Billing,True,Neutral,Neutral,True,Medium,Low,False,KB0003,KB0001,False,False
+T00081,Account Access,Account Access,True,Neutral,Neutral,True,Medium,Low,False,KB0013,KB0013,True,True
+T00088,Account Access,Billing,False,Negative,Negative,True,Medium,Medium,True,KB0014,KB0012,False,False
+T00143,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Low,High,False,KB0023,KB0024,False,True
+T00117,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,High,High,True,KB0019,KB0015,False,True
+T00023,Billing,Billing,True,Neutral,Neutral,True,Medium,Low,False,KB0003,KB0001,False,False
+T00077,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0012,KB0014,False,False
+T00138,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Low,High,False,KB0023,KB0023,True,True
+T00073,Account Access,Account Access,True,Positive,Positive,True,Medium,Low,False,KB0012,KB0010,False,False
+T00014,Billing,Cancellation/Refund,False,Negative,Negative,True,High,High,True,KB0002,KB0000,False,False
+T00142,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,High,High,True,KB0023,KB0023,True,True
+T00123,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Low,High,False,KB0020,KB0024,False,True
+T00062,Account Access,Account Access,True,Negative,Negative,True,High,High,True,KB0010,KB0014,False,False
+T00083,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0013,KB0010,False,True
+T00074,Account Access,Billing,False,Negative,Negative,True,Low,Medium,False,KB0012,KB0012,True,True
+T00042,Technical Issue,Technical Issue,True,Negative,Neutral,False,High,High,True,KB0007,KB0008,False,False
+T00060,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0010,KB0010,True,True
+T00040,Technical Issue,Technical Issue,True,Neutral,Neutral,True,High,High,True,KB0006,KB0005,False,False
+T00045,Technical Issue,Technical Issue,True,Negative,Negative,True,Medium,Medium,True,KB0007,KB0005,False,False
+T00087,Account Access,Account Access,True,Positive,Positive,True,Low,Low,True,KB0014,KB0014,True,True
+T00124,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,Low,False,KB0020,KB0021,False,False
+T00041,Technical Issue,Billing,False,Negative,Negative,True,Medium,Medium,True,KB0006,KB0006,True,True
+T00131,Cancellation/Refund,Billing,False,Positive,Positive,True,Medium,Low,False,KB0021,KB0022,False,False
+T00070,Account Access,Account Access,True,Neutral,Neutral,True,High,High,True,KB0011,KB0011,True,True
+T00046,Technical Issue,Technical Issue,True,Negative,Negative,True,High,High,True,KB0007,KB0009,False,False
+T00126,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,High,High,True,KB0021,KB0023,False,False
+T00054,Technical Issue,Billing,False,Negative,Negative,True,Low,Medium,False,KB0009,KB0007,False,False
+T00085,Account Access,Account Access,True,Positive,Positive,True,Medium,Low,False,KB0014,KB0013,False,False
+T00114,Shipping/Delivery,Shipping/Delivery,True,Positive,Positive,True,High,High,True,KB0019,KB0019,True,True
+T00038,Technical Issue,Technical Issue,True,Positive,Positive,True,Medium,Low,False,KB0006,KB0005,False,False
+T00101,Shipping/Delivery,Shipping/Delivery,True,Negative,Negative,True,Medium,Medium,True,KB0016,KB0019,False,True
+T00149,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,High,False,KB0024,KB0024,True,True
+T00136,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Medium,Medium,True,KB0022,KB0023,False,False
+T00113,Shipping/Delivery,Shipping/Delivery,True,Positive,Positive,True,Medium,Low,False,KB0018,KB0019,False,True
+T00097,Shipping/Delivery,Shipping/Delivery,True,Negative,Negative,True,Low,Medium,False,KB0016,KB0016,True,True
+T00141,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,High,High,True,KB0023,KB0023,True,True
+T00036,Technical Issue,Technical Issue,True,Neutral,Neutral,True,Low,High,False,KB0006,KB0009,False,False
+T00037,Technical Issue,Billing,False,Neutral,Neutral,True,High,High,True,KB0006,KB0006,True,True
+T00013,Billing,Billing,True,Positive,Positive,True,High,High,True,KB0002,KB0003,False,False
+T00068,Account Access,Account Access,True,Neutral,Neutral,True,High,High,True,KB0011,KB0010,False,False
+T00011,Billing,Billing,True,Negative,Negative,True,Medium,Medium,True,KB0001,KB0003,False,False
+T00052,Technical Issue,Billing,False,Negative,Negative,True,Medium,Medium,True,KB0008,KB0006,False,False
+T00049,Technical Issue,Billing,False,Neutral,Neutral,True,High,High,True,KB0008,KB0006,False,False
+T00065,Account Access,Account Access,True,Neutral,Neutral,True,High,High,True,KB0010,KB0013,False,True
+T00118,Shipping/Delivery,Billing,False,Positive,Positive,True,High,High,True,KB0019,KB0017,False,True
+T00055,Technical Issue,Billing,False,Negative,Negative,True,High,High,True,KB0009,KB0006,False,False
+T00067,Account Access,Account Access,True,Negative,Negative,True,Low,Medium,False,KB0011,KB0014,False,True
+T00003,Billing,Billing,True,Neutral,Neutral,True,High,High,True,KB0000,KB0004,False,False
+T00017,Billing,Billing,True,Negative,Negative,True,Medium,Medium,True,KB0002,KB0001,False,False
+T00135,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Low,Medium,False,KB0022,KB0020,False,False
+T00029,Billing,Billing,True,Negative,Negative,True,Low,Medium,False,KB0004,KB0002,False,False
+T00010,Billing,Billing,True,Negative,Negative,True,Low,Medium,False,KB0001,KB0001,True,True
+T00022,Billing,Billing,True,Neutral,Neutral,True,Low,Low,True,KB0003,KB0002,False,False
+T00002,Billing,Billing,True,Positive,Positive,True,Medium,Low,False,KB0000,KB0004,False,False
+T00031,Technical Issue,Technical Issue,True,Neutral,Neutral,True,High,High,True,KB0005,KB0009,False,False
+T00096,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0016,KB0019,False,True
+T00089,Account Access,Account Access,True,Neutral,Neutral,True,Medium,Low,False,KB0014,KB0013,False,False
+T00027,Billing,Billing,True,Neutral,Neutral,True,Medium,Low,False,KB0004,KB0001,False,False
+T00108,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0018,KB0018,True,True
+T00051,Technical Issue,Billing,False,Neutral,Neutral,True,Low,Low,True,KB0008,KB0007,False,False
+T00001,Billing,Billing,True,Neutral,Neutral,True,Medium,Low,False,KB0000,KB0003,False,False
+T00016,Billing,Billing,True,Neutral,Neutral,True,Medium,High,False,KB0002,KB0002,True,True
+T00106,Shipping/Delivery,Shipping/Delivery,True,Negative,Neutral,False,Medium,Low,False,KB0017,KB0016,False,False
+T00086,Account Access,Account Access,True,Negative,Negative,True,High,High,True,KB0014,KB0010,False,False
+T00034,Technical Issue,Technical Issue,True,Neutral,Neutral,True,Low,High,False,KB0005,KB0005,True,True
+T00104,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,High,False,KB0017,KB0015,False,True
+T00093,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,High,High,True,KB0015,KB0018,False,False
+T00134,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,High,False,KB0022,KB0024,False,False
+T00043,Technical Issue,Billing,False,Negative,Neutral,False,Low,Low,True,KB0007,KB0007,True,True
+T00111,Shipping/Delivery,Shipping/Delivery,True,Negative,Negative,True,Medium,Medium,True,KB0018,KB0019,False,True
+T00039,Technical Issue,Billing,False,Neutral,Neutral,True,High,High,True,KB0006,KB0006,True,True
+T00047,Technical Issue,Technical Issue,True,Positive,Positive,True,Medium,Low,False,KB0007,KB0005,False,False
+T00078,Account Access,Account Access,True,Neutral,Neutral,True,Low,Low,True,KB0013,KB0011,False,False
+T00116,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0019,KB0018,False,False
+T00064,Account Access,Account Access,True,Neutral,Neutral,True,Medium,High,False,KB0010,KB0014,False,False
+T00094,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0015,KB0019,False,False
+T00024,Billing,Billing,True,Positive,Positive,True,High,High,True,KB0004,KB0001,False,False
+T00132,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Low,High,False,KB0022,KB0021,False,False
+T00058,Technical Issue,Billing,False,Negative,Negative,True,Medium,Medium,True,KB0009,KB0007,False,False
+T00008,Billing,Billing,True,Negative,Neutral,False,Medium,Low,False,KB0001,KB0004,False,False
+T00127,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Low,Medium,False,KB0021,KB0024,False,False
+T00071,Account Access,Account Access,True,Neutral,Neutral,True,Medium,Low,False,KB0011,KB0010,False,False
+T00066,Account Access,Account Access,True,Neutral,Neutral,True,Low,Low,True,KB0011,KB0010,False,False
+T00130,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Medium,Medium,True,KB0021,KB0021,True,True
+T00079,Account Access,Account Access,True,Neutral,Neutral,True,High,High,True,KB0013,KB0013,True,True
+T00105,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,High,High,True,KB0017,KB0019,False,False
+T00063,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0010,KB0013,False,True
+T00144,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Low,Low,True,KB0024,KB0020,False,True
+T00115,Shipping/Delivery,Shipping/Delivery,True,Negative,Negative,True,High,High,True,KB0019,KB0018,False,True
+T00032,Technical Issue,Billing,False,Negative,Negative,True,Low,Medium,False,KB0005,KB0007,False,False
+T00025,Billing,Billing,True,Negative,Negative,True,Medium,Medium,True,KB0004,KB0002,False,False
+T00103,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,High,High,True,KB0017,KB0016,False,False
+T00102,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Low,Low,True,KB0017,KB0018,False,False
+T00030,Technical Issue,Technical Issue,True,Neutral,Neutral,True,High,High,True,KB0005,KB0005,True,True
+T00076,Account Access,Billing,False,Neutral,Neutral,True,Medium,Low,False,KB0012,KB0012,True,True
+T00148,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,Low,False,KB0024,KB0023,False,False
+T00099,Shipping/Delivery,Shipping/Delivery,True,Negative,Negative,True,Low,Medium,False,KB0016,KB0016,True,True
+T00057,Technical Issue,Technical Issue,True,Neutral,Neutral,True,Medium,High,False,KB0009,KB0005,False,False
+T00107,Shipping/Delivery,Billing,False,Negative,Negative,True,Low,Medium,False,KB0017,KB0017,True,True
+T00069,Account Access,Account Access,True,Negative,Negative,True,High,High,True,KB0011,KB0010,False,False
+T00129,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Low,Medium,False,KB0021,KB0024,False,False
+T00000,Billing,Billing,True,Neutral,Neutral,True,High,High,True,KB0000,KB0002,False,False
+T00109,Shipping/Delivery,Billing,False,Neutral,Neutral,True,Medium,High,False,KB0018,KB0017,False,False
+T00128,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,High,High,True,KB0021,KB0024,False,False
+T00009,Billing,Billing,True,Negative,Negative,True,Medium,Medium,True,KB0001,KB0002,False,False
+T00028,Billing,Billing,True,Neutral,Neutral,True,Medium,Low,False,KB0004,KB0001,False,False
+T00090,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0015,KB0018,False,False
+T00137,Cancellation/Refund,Cancellation/Refund,True,Positive,Positive,True,Low,Low,True,KB0022,KB0023,False,False
+T00006,Billing,Billing,True,Negative,Negative,True,Medium,Medium,True,KB0001,KB0003,False,False
+T00015,Billing,Cancellation/Refund,False,Positive,Positive,True,Medium,Low,False,KB0002,KB0000,False,False
+T00082,Account Access,Account Access,True,Negative,Negative,True,Low,Medium,False,KB0013,KB0010,False,True
+T00125,Cancellation/Refund,Cancellation/Refund,True,Negative,Neutral,False,Medium,Low,False,KB0020,KB0024,False,True
+T00012,Billing,Billing,True,Negative,Negative,True,Low,Medium,False,KB0002,KB0001,False,False
+T00033,Technical Issue,Technical Issue,True,Negative,Negative,True,High,High,True,KB0005,KB0009,False,False
+T00091,Shipping/Delivery,Billing,False,Negative,Negative,True,Medium,Medium,True,KB0015,KB0017,False,True
+T00145,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,Low,False,KB0024,KB0020,False,True
+T00146,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,Low,False,KB0024,KB0023,False,False
+T00035,Technical Issue,Technical Issue,True,Neutral,Neutral,True,Medium,High,False,KB0005,KB0009,False,False
+T00140,Cancellation/Refund,Billing,False,Negative,Neutral,False,Medium,Low,False,KB0023,KB0022,False,False
+T00080,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0013,KB0013,True,True
+T00005,Billing,Cancellation/Refund,False,Neutral,Neutral,True,Medium,Low,False,KB0000,KB0000,True,True
+T00053,Technical Issue,Technical Issue,True,Negative,Neutral,False,High,High,True,KB0008,KB0009,False,False
+T00139,Cancellation/Refund,Cancellation/Refund,True,Positive,Positive,True,High,High,True,KB0023,KB0020,False,False
+T00050,Technical Issue,Billing,False,Negative,Negative,True,Low,Medium,False,KB0008,KB0007,False,False
+T00018,Billing,Billing,True,Neutral,Neutral,True,Low,High,False,KB0003,KB0003,True,True
+T00133,Cancellation/Refund,Cancellation/Refund,True,Neutral,Neutral,True,Medium,High,False,KB0022,KB0020,False,False
+T00119,Shipping/Delivery,Shipping/Delivery,True,Negative,Neutral,False,Medium,Low,False,KB0019,KB0018,False,False
+T00059,Technical Issue,Technical Issue,True,Neutral,Neutral,True,Low,High,False,KB0009,KB0005,False,False
+T00084,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0014,KB0013,False,False
+T00100,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0016,KB0018,False,True
+T00147,Cancellation/Refund,Cancellation/Refund,True,Positive,Positive,True,Low,Low,True,KB0024,KB0020,False,True
+T00122,Cancellation/Refund,Cancellation/Refund,True,Negative,Negative,True,Medium,Medium,True,KB0020,KB0023,False,False
+T00061,Account Access,Account Access,True,Negative,Negative,True,Medium,Medium,True,KB0010,KB0010,True,True
+T00110,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,High,False,KB0018,KB0019,False,True
+T00072,Account Access,Billing,False,Neutral,Neutral,True,Medium,High,False,KB0012,KB0012,True,True
+T00098,Shipping/Delivery,Shipping/Delivery,True,Neutral,Neutral,True,Medium,Low,False,KB0016,KB0019,False,True
+T00120,Cancellation/Refund,Cancellation/Refund,True,Positive,Positive,True,Medium,Low,False,KB0020,KB0024,False,True
+T00112,Shipping/Delivery,Shipping/Delivery,True,Negative,Negative,True,High,High,True,KB0018,KB0018,True,True
+T00048,Technical Issue,Technical Issue,True,Positive,Positive,True,High,High,True,KB0008,KB0009,False,False
+T00004,Billing,Billing,True,Negative,Negative,True,Medium,Medium,True,KB0000,KB0001,False,False
+T00056,Technical Issue,Technical Issue,True,Negative,Neutral,False,Medium,Low,False,KB0009,KB0009,True,True
